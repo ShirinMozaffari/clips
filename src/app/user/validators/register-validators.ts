@@ -21,6 +21,3 @@ export class RegisterValidators {
     }
   }
 }
-
-// new RegisterValidators.match() <~ Without static
-// RegisterValidators.match() <~ With static
